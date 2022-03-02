@@ -1,6 +1,6 @@
 # Calc/Multiplier Trainer
 
-Live demo: (Multiplier Trainer)[https://wefr.net/calc/]
+Live demo: [Multiplier Trainer](https://wefr.net/calc/)
 
 Simple web app helps children to learn and train basic multiplication (from 2x2 to 9x9).
 
