@@ -132,6 +132,9 @@ document.addEventListener('DOMContentLoaded', function(){
             check();
         }
     });
+    input.addEventListener('input', function(){
+        input.value = Number(input.value) || '';
+    });
     
     
     if(optionsToggle){

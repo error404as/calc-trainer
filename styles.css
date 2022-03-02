@@ -32,8 +32,10 @@ html[lang="ru"] .lang-en { display: none; }
 .view__input--error {
     color: #f33;
 }
+input[type="number"] { -webkit-appearance: textfield; }
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button { display: none; }
+
 
 .stats {
     position: fixed; bottom: 0; right: 0;
